@@ -1,0 +1,8 @@
+{
+  "name": "English planet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "572322d6"
+}

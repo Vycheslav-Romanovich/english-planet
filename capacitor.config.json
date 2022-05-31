@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "English planet",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
